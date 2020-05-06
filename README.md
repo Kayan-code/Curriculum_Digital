@@ -4,6 +4,3 @@ This repository was created using the CSS Bootstrap framework and was also creat
 The initial project was white mode however, aiming to bring a dark mode, I went ahead to edit some things on my own.
 
 Printscreen da HomePage do Resumo: https://ibb.co/tqHkV21
-#� �C�u�r�r�i�c�u�l�u�m�_�D�i�g�i�t�a�l�
-�
-�
